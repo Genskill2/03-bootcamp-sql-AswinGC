@@ -21,8 +21,8 @@ insert into books(title,publisher)
 values("Cryptonomicon",2);
 insert into books(title,publisher)
 values("Deep Work",3);
-insert into books(title,publisher)
-values("Avery",4);
+insert into books(title)
+values("Atomic habits");
 insert into books(title,publisher)
 values("The City and The City",5);
 insert into books(title,publisher)
